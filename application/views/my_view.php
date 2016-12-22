@@ -1,4 +1,4 @@
 <?php
 
-echo "Test page";
+echo "Xenium Digital";
 ?>
