@@ -1,4 +1,4 @@
 <?php
 
-echo "Xenium Digital PVT LTD.";
+echo "Xenium Digital.";
 ?>
